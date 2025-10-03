@@ -1,0 +1,7 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="MainRoot" style="flex-grow: 1;">
+        <ui:VisualElement name="TopPanel" style="flex-grow: 0.25; flex-direction: row; align-items: center; align-self: stretch; flex-basis: 0; background-color: rgba(53, 137, 0, 0); justify-content: flex-start; align-content: auto; flex-wrap: nowrap;" />
+        <ui:VisualElement name="CenterPanel" style="flex-grow: 1; flex-basis: 500px; align-self: stretch; justify-content: center; align-items: center; flex-direction: column;" />
+        <ui:VisualElement name="DownPanel" style="flex-grow: 0.25; flex-basis: auto; background-color: rgba(130, 0, 0, 0);" />
+    </ui:VisualElement>
+</ui:UXML>
